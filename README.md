@@ -52,7 +52,6 @@ With 7 years of battle-tested experience, I craft robust, scalable applications 
 - 🚀 Scaled application to handle 1M+ daily active users
 - 🛠 Reduced deployment time by 70% through CI/CD optimization
 - 💡 Implemented microservices architecture, improving system reliability by 99.9%
-- 🏅 Recognized as "Developer of the Year" in previous role
 
 ## 📊 GitHub Stats
 
